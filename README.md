@@ -1,4 +1,3 @@
-Description:
 
 The "DiscordGroups" script is a robust integration tool for FiveM servers that seamlessly connects Discord group roles with in-game player groups and permissions. With an added feature to check Discord roles upon player connection, this script ensures that players are dynamically assigned in-game groups based on their roles within designated Discord servers, enhancing access management and streamlining player experience.
 
